@@ -1,6 +1,8 @@
 [AdBlock]
 ! Title: AdBlock
 
+||*ads.js*.*^
+||*pagead.js*.*^
 ||analytics.pinterest.com^
 ||c.apple.news^
 ||cdn.pkmer.cn^
