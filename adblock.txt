@@ -1,6 +1,7 @@
 [AdBlock]
 ! Title: AdBlock
 
+||analytics.pinterest.com^
 ||c.apple.news^
 ||cdn.pkmer.cn^
 ||d425438857f7719a.apple.com^
